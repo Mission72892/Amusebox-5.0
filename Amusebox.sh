@@ -10,8 +10,8 @@ import datetime
 from base64 import b64decode,b64encode
 from datetime import date
 
-expirydate = datetime.date(2022, 10, 12)
-#expirydate = datetime.date(2022, 8, 30)
+expirydate = datetime.date(2023, 12, 30)
+#expirydate = datetime.date(2023, 10, 25)
 today=date.today()
 green="\033[3;32m"
 neon="\033[3;36m"
